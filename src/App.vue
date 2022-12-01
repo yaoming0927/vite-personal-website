@@ -30,7 +30,7 @@
 <script>
 import SocialButton from '@/components/SocialButton.vue'
 import profileJson from '@/assets/profile.json'
-import avatarImage from '@/assets/avatar.png?url'
+import avatarImage from '@/assets/avatar.jpg?url'
 
 export default {
   name: 'App',
